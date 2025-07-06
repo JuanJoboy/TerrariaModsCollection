@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Mods/FirstMod"
+		},
+		{
+			"path": "Mods/Vaultaria"
+		}
+	],
+	"settings": {}
+}
