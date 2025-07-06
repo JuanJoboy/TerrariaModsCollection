@@ -1,6 +1,3 @@
-[submodule "Mods/FirstTerrariaMod"]
-	path = Mods/FirstTerrariaMod
-	url = https://github.com/JuanJoboy/FirstTerrariaMod.git
-[submodule "Mods/Vaultaria"]
-	path = Mods/Vaultaria
-	url = https://github.com/JuanJoboy/Vaultaria.git
+[submodule "Mods/FirstMod"]
+	path = Mods/FirstMod
+	url = https://github.com/JuanJoboy/FirstMod.git
