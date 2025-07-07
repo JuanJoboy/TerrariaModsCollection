@@ -1,12 +1,15 @@
 {
 	"folders": [
 		{
+			"name": "TerrariaModsCollection",
 			"path": "."
 		},
 		{
+			"name": "FirstMod",
 			"path": "Mods/FirstMod"
 		},
 		{
+			"name": "Vaultaria",
 			"path": "Mods/Vaultaria"
 		}
 	],
